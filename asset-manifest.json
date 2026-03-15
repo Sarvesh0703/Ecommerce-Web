@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Web/static/css/main.30bc93d8.css",
+    "main.js": "/Ecommerce-Web/static/js/main.df6b0f57.js",
+    "static/media/proImg2.png": "/Ecommerce-Web/static/media/proImg2.573f739194b7886621e6.png",
+    "static/media/proImg1.png": "/Ecommerce-Web/static/media/proImg1.dd79467a38b8890cd193.png",
+    "static/media/product-7.png": "/Ecommerce-Web/static/media/product-7.73d4ed8b8c487b23d28f.png",
+    "static/media/fa-solid-900.woff2": "/Ecommerce-Web/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
+    "static/media/fa-brands-400.woff2": "/Ecommerce-Web/static/media/fa-brands-400.f276979f97f1cf375d23.woff2",
+    "static/media/slide-3.jpg": "/Ecommerce-Web/static/media/slide-3.42a378abf9f1d35cc2d9.jpg",
+    "static/media/product-5.png": "/Ecommerce-Web/static/media/product-5.7846c08478807aab34d5.png",
+    "static/media/product-3.png": "/Ecommerce-Web/static/media/product-3.e990735dd9ff9b8d22e6.png",
+    "static/media/product-4.png": "/Ecommerce-Web/static/media/product-4.50b6fa27a1e6fc2cfa2d.png",
+    "static/media/product-2.png": "/Ecommerce-Web/static/media/product-2.ac8a48b0cc32fa2fab94.png",
+    "static/media/proImg3.png": "/Ecommerce-Web/static/media/proImg3.ef7ce57f0e6d4fd2e67a.png",
+    "static/media/product-1.png": "/Ecommerce-Web/static/media/product-1.61255679c0c93acf66cc.png",
+    "static/media/fa-regular-400.woff2": "/Ecommerce-Web/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
+    "static/media/product-6.png": "/Ecommerce-Web/static/media/product-6.9efdf0b21e9abf89b7b1.png",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce-Web/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
+    "static/media/Google_Pay.svg": "/Ecommerce-Web/static/media/Google_Pay.b17e4be1503985b8d823046e16fdc899.svg",
+    "static/media/Visa_Inc.svg": "/Ecommerce-Web/static/media/Visa_Inc.424e550ac3b6d733248777755389a835.svg",
+    "static/media/Apple_Pay.svg": "/Ecommerce-Web/static/media/Apple_Pay.451a8d215901fe220c69d2946da7be9e.svg",
+    "static/media/Mastercard.svg": "/Ecommerce-Web/static/media/Mastercard.a926ed912779093767a0cd8687855a5f.svg",
+    "index.html": "/Ecommerce-Web/index.html",
+    "static/media/e-logo.svg": "/Ecommerce-Web/static/media/e-logo.568327210e24142c3556b4380b2968a2.svg",
+    "main.30bc93d8.css.map": "/Ecommerce-Web/static/css/main.30bc93d8.css.map",
+    "main.df6b0f57.js.map": "/Ecommerce-Web/static/js/main.df6b0f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30bc93d8.css",
+    "static/js/main.df6b0f57.js"
+  ]
+}

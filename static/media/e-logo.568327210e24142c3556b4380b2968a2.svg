@@ -1,0 +1,7 @@
+<svg width="180" height="80" viewBox="0 0 180 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="18" width="45" height="45" rx="10" fill="#ef7f9d"></rect>
+  <path d="M22 32C22 24 27 20 32 20C37 20 42 24 42 32" stroke="#ffffff" stroke-width="3" fill="none"></path>
+  <text x="70" y="48" font-size="28" font-family="Poppins, Arial" fill="#354655" font-weight="600">
+    Shoply
+  </text>
+</svg>
