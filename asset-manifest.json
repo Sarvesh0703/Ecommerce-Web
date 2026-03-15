@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ecommerce-Web/static/css/main.326c4752.css",
-    "main.js": "/Ecommerce-Web/static/js/main.a5fd42f6.js",
+    "main.css": "/Ecommerce-Web/static/css/main.e1751975.css",
+    "main.js": "/Ecommerce-Web/static/js/main.fa6094b5.js",
     "static/media/proImg2.png": "/Ecommerce-Web/static/media/proImg2.573f739194b7886621e6.png",
     "static/media/proImg1.png": "/Ecommerce-Web/static/media/proImg1.dd79467a38b8890cd193.png",
     "static/media/product-7.png": "/Ecommerce-Web/static/media/product-7.73d4ed8b8c487b23d28f.png",
@@ -23,11 +23,11 @@
     "static/media/Mastercard.svg": "/Ecommerce-Web/static/media/Mastercard.a926ed912779093767a0cd8687855a5f.svg",
     "index.html": "/Ecommerce-Web/index.html",
     "static/media/e-logo.svg": "/Ecommerce-Web/static/media/e-logo.568327210e24142c3556b4380b2968a2.svg",
-    "main.326c4752.css.map": "/Ecommerce-Web/static/css/main.326c4752.css.map",
-    "main.a5fd42f6.js.map": "/Ecommerce-Web/static/js/main.a5fd42f6.js.map"
+    "main.e1751975.css.map": "/Ecommerce-Web/static/css/main.e1751975.css.map",
+    "main.fa6094b5.js.map": "/Ecommerce-Web/static/js/main.fa6094b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.326c4752.css",
-    "static/js/main.a5fd42f6.js"
+    "static/css/main.e1751975.css",
+    "static/js/main.fa6094b5.js"
   ]
 }
